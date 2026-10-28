@@ -1,0 +1,7 @@
+{
+  "name": "artisans-vst",
+  "version": "1.0.0",
+  "description": "Assistants métier pour artisans du bâtiment : préparation de devis, comptes rendus de visite, veille des appels d'offres et relance de paiement.",
+  "author": { "name": "Sophie Picquet — Un peigne pour un chauve" },
+  "keywords": ["artisan", "bâtiment", "devis", "compte rendu", "appels d'offres", "relance"]
+}
